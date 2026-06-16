@@ -1,0 +1,43 @@
+# Geotechnique — Pau
+
+> Geotechnical engineering services in Pau, France.
+
+## Services
+- [Amelioration Sols](https://pau.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://pau.geotechnique.vip/ancrages/)
+- [Chaussee Rigide](https://pau.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://pau.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://pau.geotechnique.vip/colonnes-ballastees/)
+- [Essai Plaque Charge](https://pau.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://pau.geotechnique.vip/excavations/)
+- [Fondations](https://pau.geotechnique.vip/fondations/)
+- [Geophysique](https://pau.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://pau.geotechnique.vip/geotechnique-routiere/)
+- [Injections](https://pau.geotechnique.vip/injections/)
+- [Investigation](https://pau.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://pau.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://pau.geotechnique.vip/labo-in-situ/)
+- [Limites Atterberg](https://pau.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://pau.geotechnique.vip/liquefaction/)
+- [Masw](https://pau.geotechnique.vip/masw/)
+- [Murs Soutenement](https://pau.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://pau.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://pau.geotechnique.vip/pieux/)
+- [Puits Inspection](https://pau.geotechnique.vip/puits-inspection/)
+- [Refraction Sismique](https://pau.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://pau.geotechnique.vip/resistivite/)
+- [Semelles](https://pau.geotechnique.vip/semelles/)
+- [Sismique](https://pau.geotechnique.vip/sismique/)
+- [Sondages Spt](https://pau.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://pau.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://pau.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://pau.geotechnique.vip/talus/)
+- [Tunnels Sol Mou](https://pau.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://pau.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://pau.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Pau, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
